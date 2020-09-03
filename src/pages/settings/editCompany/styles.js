@@ -1,0 +1,18 @@
+export default {
+  sectionTitle: { fontSize: "14px", color: "gray" },
+  fieldTitle: { fontSize: "14px", fontWeight: "bold", color: "gray" },
+  fieldData: { fontSize: "14px", color: "gray" },
+  bullet: { backgroundColor: "#18D55D", width: "20px", height: "20px", margin: "auto 0" },
+  bullet1: { backgroundColor: "#f7b84b", width: "20px", height: "20px", margin: "auto 0" },
+  bullet2: { backgroundColor: "#DF0606", width: "20px", height: "20px", margin: "auto 0" },
+  bulletTitle: { fontSize: "14px", fontWeight: "bold" },
+  bulletData: { fontSize: "20px", fontWeight: "bold" },
+  bulletData2: { fontSize: "14px", fontWeight: "bold", textAlign: "right" },
+  check: { color: "#18D55D", marginLeft: "6px" },
+  unCheck: { color: "#f7b84b", marginLeft: "6px" },
+  divider: { height: "2px", backgroundColor: "#CBCBCB", marginBottom: "6px" },
+  badge: { fontSize: "14px", marginRight: "4px" },
+  actionButton: { marginRight: "4px", marginLeft: "4px" },
+  td: { verticalAlign: "middle", width: "160px" },
+  td2: { verticalAlign: "middle" },
+} 
